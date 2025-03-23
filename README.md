@@ -30,3 +30,21 @@
 ```python
 def focus():
     return ["Algorithmic Trading", "Reinforcement Learning", "High-Frequency Systems", "Applied Probability"]
+---
+
+## **What Makes It Advanced?**
+✅ Terminal-style intro  
+✅ Typing animation  
+✅ Dark-theme optimized  
+✅ GitHub API-generated stats  
+✅ Realistic, clean tech badges  
+✅ Code block for *"Currently Exploring"*  
+✅ Minimalist but powerful vibe  
+
+---
+
+## **Next Step (Optional but Pro-Level):**
+Want me to create this as a `README.md` file and generate the Snake Action workflow setup ready for your GitHub?  
+Or add your **live projects, blogs, or pinned repositories** section?  
+
+**Tell me your style — serious quant/dev, or casual hacker vibe?**
