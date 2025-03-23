@@ -32,7 +32,7 @@
 
 ---
 
-## ðŸ”„ Currently Grinding On
+## 📊”„ Currently Grinding On
 ```python
 quant_research = ["Options Pricing", "Probability Models", "Algo Backtesting"]
 focus_languages = ["C++", "Python", "Rust"]
