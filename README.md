@@ -1,11 +1,9 @@
-<h1 align="center">Hey, I'm <a href="https://github.com/ujjwal77771" target="_blank">Ujjwal Deep</a></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFEF&vCenter=true&width=500&lines=Hi%2C+I'm+Ujjwal+Deep;Aspiring+HFT+Quant+%7C+AI+Engineer;Speed+%2B+Math+%2B+Code+%7C+Precision+Matters" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=32F7E6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=HFT+Aspiring+Quant+%7C+AI+Engineer;Speed%2C+Math+%2B+Code+%7C+Nothing+Else+Matters" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEejZ0f7G/giphy.gif" width="200" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280" />
 </p>
 
 ---
@@ -20,7 +18,7 @@
 ### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
 </p>
 
 ---
@@ -55,11 +53,11 @@
 
 ### 🎯 Roadmap 2025
 
-- [x] Solidify CS + Math foundations
-- [x] Build AI-based trading strategies
-- [ ] Open-source quant tools
-- [ ] Publish a whitepaper on time-theory-inspired models
-- [ ] Crack Tower Research internship
+- [x] Solidify CS + Math foundations  
+- [x] Build AI-based trading strategies  
+- [ ] Open-source quant tools  
+- [ ] Publish a whitepaper on time-theory-inspired models  
+- [ ] Crack Tower Research internship  
 
 ---
 
