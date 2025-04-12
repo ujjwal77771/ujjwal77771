@@ -1,65 +1,76 @@
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/ujjwal77771">Ujjwal Deep</a> </h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/ujjwal77771" target="_blank">Ujjwal Deep</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=14F7FF&center=true&vCenter=true&width=435&lines=Quant+Researcher+%7C+AI+Engineer;Trading+Enthusiast+%7C+Mental+Math+Grinder;Building+for+the+future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=32F7E6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=HFT+Aspiring+Quant+%7C+AI+Engineer;Speed%2C+Math+%2B+Code+%7C+Nothing+Else+Matters" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hp3dmEejZ0f7G/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧭 Vision
 
-- Passionate about building **AI systems**, **probability-driven strategies**, and solving deep tech challenges.
-- Exploring the intersection of **trading**, **quant research**, and **intelligent algorithms**.
-- Currently building & learning from scratch at [BIT Mesra](https://www.bitmesra.ac.in) | Targeting **Tower Research** & **Top US CS Programs**.
-- Hacker + Mathematician + Startup Hustler.
+> I build, I optimize, I scale — at the speed of thought.  
+> Currently learning everything from scratch with a mission to dominate quant, trading, and AI.
 
 ---
 
-### ⚙️ Languages & Tools
+### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,git,linux,figma,vscode,postman,bash,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### ⚡ Stats in Real Time
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwal77771&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwal77771&theme=onedark&no-frame=true&margin-w=10&row=2&column=3" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 🚀 Current Focus
+### 🚧 Currently Building
 
-- **Mastering probability, coding, and math** for quant/trading interviews
-- **Working on a startup** + open-source AI experiments
-- Building **mental speed**, intuition, and performance like a quant athlete
+- A pipeline for **algorithmic thinking** in trading: fast decisions, real-time data.
+- Projects focused on **probability theory**, **optimization**, and **fast systems**.
+- Preparing for top-tier firms like **Tower Research**, **Jane Street**, and top **US CS/Math colleges**.
 
 ---
 
-### 🌐 Connect with Me
+### 🎯 Roadmap 2025
+
+- [x] Solidify CS + Math foundations
+- [x] Build AI-based trading strategies
+- [ ] Open-source quant tools
+- [ ] Publish a whitepaper on time-theory-inspired models
+- [ ] Crack Tower Research internship
+
+---
+
+### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/ujjwal77771"><img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github" /></a>
-  <a href="mailto:ujjwaldeep77771@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ujjwaldeep77771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ujjwal77771"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>“Those who are crazy enough to think they can change the world are the ones who do.”</i></p>
+<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
