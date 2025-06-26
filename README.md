@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=0FF0FC&vCenter=true&center=true&width=500&lines=Hi%2C+I'm+Ujjwal+Deep;Aspiring+HFT+Quant+%7C+AI+Engineer;Speed+%2B+Math+%2B+Code+%7C+Precision+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="260"/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 🧭 Vision
 
 > I build, I optimize, I scale — at the speed of thought.  
-> Currently learning everything from scratch with a mission to dominate quant, trading, and AI.
+> Pursuing excellence in quant trading, HFT, and deep learning.
 
 ---
 
@@ -25,22 +25,34 @@
 
 ### ⚔️ Competitive Programming
 
-- Actively solving problems on various CP platforms.
-- Focus on **speed-based problem solving**, **DSA mastery**, and **algorithmic pattern recognition**.
-- Building intuition and mental math for trading-based problem-solving.
-
 <p align="center">
-  <a href="https://leetcode.com/ujjwal77771/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/ujjwaldeep_7777">
+    <img src="https://leet-card.vercel.app/?username=ujjwaldeep_7777&theme=dark&border=1" />
   </a>
-  <a href="https://codeforces.com/profile/Ujjwal_77771">
+  <a href="https://codeforces.com/profile/ujjwaldeep_77">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⚡ Stats in Real Time
+### 🧪 Featured Project: AI-Driven Trading Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ujjwal77771/assets/main/trading-ai-preview.gif" width="600"/>
+</p>
+
+> **Live Trading Analysis with AI**  
+> A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
+> Built for precision and performance in high-frequency environments.
+
+Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)
+
+📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" />
@@ -60,28 +72,20 @@
 
 ---
 
-### 🚧 Currently Building
-
-- A pipeline for **algorithmic thinking** in trading: fast decisions, real-time data.
-- Projects focused on **probability theory**, **optimization**, and **fast systems**.
-- Preparing for top-tier firms like **Tower Research**, **Jane Street**, and elite **US CS/Math colleges**.
-
----
-
-### 🎯 Roadmap 2025
+### 🎯 2025 Roadmap
 
 - [x] Solidify CS + Math foundations  
-- [x] Build AI-based trading strategies  
-- [ ] Open-source quant tools  
-- [ ] Publish a whitepaper on time-theory-inspired models  
-- [ ] Crack Tower Research internship  
+- [x] Build AI-based trading systems  
+- [ ] Release open-source quant tools  
+- [ ] Publish whitepaper on Time Theory Models  
+- [ ] Secure Tower Research internship  
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b">
+  <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ujjwaldeep77771@gmail.com">
