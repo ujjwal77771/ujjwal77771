@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFEF&vCenter=true&width=500&lines=Hi%2C+I'm+Ujjwal+Deep;Aspiring+HFT+Quant+%7C+AI+Engineer;Speed+%2B+Math+%2B+Code+%7C+Precision+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=0FF0FC&vCenter=true&center=true&width=500&lines=Hi%2C+I'm+Ujjwal+Deep;Aspiring+HFT+Quant+%7C+AI+Engineer;Speed+%2B+Math+%2B+Code+%7C+Precision+Matters" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250" />
 </p>
 
 ---
@@ -19,6 +19,23 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
+</p>
+
+---
+
+### ⚔️ Competitive Programming
+
+- Actively solving problems on various CP platforms.
+- Focus on **speed-based problem solving**, **DSA mastery**, and **algorithmic pattern recognition**.
+- Building intuition and mental math for trading-based problem-solving.
+
+<p align="center">
+  <a href="https://leetcode.com/ujjwal77771/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Ujjwal_77771">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,7 +64,7 @@
 
 - A pipeline for **algorithmic thinking** in trading: fast decisions, real-time data.
 - Projects focused on **probability theory**, **optimization**, and **fast systems**.
-- Preparing for top-tier firms like **Tower Research**, **Jane Street**, and top **US CS/Math colleges**.
+- Preparing for top-tier firms like **Tower Research**, **Jane Street**, and elite **US CS/Math colleges**.
 
 ---
 
@@ -64,9 +81,15 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ujjwaldeep77771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ujjwal77771"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ujjwaldeep77771@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ujjwal77771">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
