@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -39,15 +39,14 @@
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ujjwal77771/assets/main/trading-ai-preview.gif" width="600"/>
+  <img src="https://files.oaiusercontent.com/file-XP5oYHccWJNjfnvBAUJ8Cd6N?se=2025-06-27T18%3A08%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&sig=XXXX" width="600" />
 </p>
 
 > **Live Trading Analysis with AI**  
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
 > Built for precision and performance in high-frequency environments.
 
-Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)
-
+Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
