@@ -38,11 +38,10 @@
 ---
 
 ### 🧪 Featured Project: AI-Driven Trading Chart
-
 <p align="center">
-  <!-- AFTER UPLOAD: replace USERNAME and REPO with your GitHub username and repo name -->
-  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/animated_trading_chart.gif" width="700" alt="animated trading chart"/>
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/realistic_trading_chart.gif" width="700" alt="animated trading chart"/>
 </p>
+
 
 > **Live Trading Analysis with AI**  
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
