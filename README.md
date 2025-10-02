@@ -1,22 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;C++%20%7C%20Quant%20%7C%20AI+Engineer;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=>_ Booting Ujjwal Deep;C++%20%7C%20Quant%20%7C%20AI+Engineer;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="260"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280"/>
 </p>
 
 ---
 
-### 🧭 Vision
+### 💡 Vision
 
 > I build, I optimize, I scale — at the speed of thought.  
-> Pursuing excellence in quant trading, HFT, and deep learning.
+> Pursuing excellence in **quant trading, HFT, and deep learning**.
 
 ---
 
-### 🛠️ Tech I'm Working With
+### 🛠️ Tech Stack
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
@@ -33,34 +41,19 @@
 
 ---
 
-### 🧪 Featured Project: AI-Driven Trading Chart
+### 🧪 Featured Project: AI Trading Chart
+
 
 <p align="center">
   <img src="https://files.oaiusercontent.com/file-XP5oYHccWJNjfnvBAUJ8Cd6N?se=2025-06-27T18%3A08%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&sig=XXXX" width="600" />
 </p>
 
-> **Live Trading Analysis with AI**  
-> A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
-> Built for precision and performance in high-frequency environments.
-
-Tech: **C++ (core HFT) · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)**  
-📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
+**Tech:** `C++ (HFT Core)` · `NumPy` · `Pandas` · `Scikit-Learn` · `Matplotlib` · `FastAPI (Coming Soon)`  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -70,15 +63,10 @@ Tech: **C++ (core HFT) · NumPy · Pandas · Scikit-Learn · Matplotlib · FastA
 
 ### 🎯 2025 Roadmap
 
-- [x] Solidify CS + Math foundations  
-- [x] Build AI-based trading systems  
-- [ ] Release open-source quant tools  
-- [ ] Publish whitepaper on Time Theory Models  
-- [ ] Secure Tower Research internship  
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
@@ -95,3 +83,5 @@ Tech: **C++ (core HFT) · NumPy · Pandas · Scikit-Learn · Matplotlib · FastA
 ---
 
 <p align="center"><i>“C++ precision isn’t optional — it’s mandatory. Every nanosecond counts.”</i></p>
+
+
