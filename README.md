@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;C++%20%7C%20Quant%20%7C%20AI+Engineer;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -17,9 +17,6 @@
 
 ### 🛠️ Tech I'm Working With
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
-</p>
 
 ---
 
@@ -46,7 +43,7 @@
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
 > Built for precision and performance in high-frequency environments.
 
-Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
+Tech: **C++ (core HFT) · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)**  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
@@ -97,4 +94,4 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
 
 ---
 
-<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+<p align="center"><i>“C++ precision isn’t optional — it’s mandatory. Every nanosecond counts.”</i></p>
