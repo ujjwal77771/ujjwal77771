@@ -40,15 +40,13 @@
 
 
 
-
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <img src="https://github.com/ujjwal77771/assets/blob/main/realistic_trading_chart.gif?raw=true" width="700" alt="Animated Trading Chart"/>
+  <img src="https://github.com/ujjwal77771/quant-trading-project/blob/main/assets/realistic_trading_chart.gif?raw=true" width="700" alt="Animated Trading Chart"/>
 </p>
 
 **Tech:** Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)
-
 
 
 ### 📊 GitHub Stats
