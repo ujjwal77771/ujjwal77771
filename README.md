@@ -84,7 +84,6 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
 ### 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ujjwaldeep77771@gmail.com">
@@ -97,6 +96,6 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
 
 ---
 
-<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>  make it more creative and i am using cpp most 
 
 
