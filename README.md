@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <!-- Larger purple/green hacker-style coder animation (Tenor) -->
+  <!-- Large coder animation -->
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coder animation"/>
 </p>
 
@@ -19,7 +19,7 @@
 ### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" alt="tech icons"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <!-- Placeholder chart (replace later with your real image) -->
-  <img src="https://placehold.co/700x400/000000/7CFC00?text=Trading+Chart" width="700" alt="Trading chart placeholder"/>
+  <!-- Upload animated_trading_chart.gif to your repo assets/ folder and replace <USERNAME> and <REPO> -->
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/animated_trading_chart.gif" width="700" alt="animated trading chart"/>
 </p>
 
 > **Live Trading Analysis with AI**  
@@ -60,7 +60,7 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" alt="streak"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true&langs_count=2" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" alt="top languages"/>
 </p>
 
 ---
@@ -86,10 +86,10 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ### 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
+  <a href="www.linkedin.com/in/ujjwal-deep-b8914024b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ujjwaldeep77771@gmail.com">
+  <a href="mailto:ujjwaldeep@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ujjwal77771">
