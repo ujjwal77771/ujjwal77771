@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <!-- Larger purple/green hacker-style coder animation (replace with your own hosted gif if you want) -->
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coder animation"/>
+  <!-- Replace USERNAME and REPO below with your GitHub username and repo name -->
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/coder.gif" width="600" alt="coder animation"/>
 </p>
 
 ---
@@ -19,7 +19,13 @@
 ### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
+  <!-- Use repo-hosted badges if you prefer, else the shields below are reliable -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </p>
 
 ---
@@ -30,7 +36,7 @@
   <a href="https://leetcode.com/ujjwaldeep_7777">
     <img src="https://leet-card.vercel.app/?username=ujjwaldeep_7777&theme=dark&border=1" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/ujjwaldeep_77" title="Codeforces profile">
+  <a href="https://codeforces.com/profile/ujjwaldeep_77">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
@@ -40,8 +46,8 @@
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <!-- Replace this placeholder URL with your actual hosted chart image if/when available -->
-  <img src="https://placehold.co/700x400/000000/7CFC00?text=Trading+Chart" width="700" alt="Trading chart placeholder"/>
+  <!-- Replace USERNAME and REPO below when you upload your chart -->
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/chart.png" width="700" alt="Trading chart"/>
 </p>
 
 > **Live Trading Analysis with AI**  
@@ -100,5 +106,6 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ---
 
 <p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+
 
 
