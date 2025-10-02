@@ -43,9 +43,6 @@
 </p>
 
 
-> **Live Trading Analysis with AI**  
-> A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
-> Built for precision and performance in high-frequency environments.
 
 Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
