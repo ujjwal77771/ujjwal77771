@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100&color=7CFC00&center=true&vCenter=true&width=900&lines=Hi,+I'm+Ujjwal+Deep;C++%20%7C%20Quant+%7C+AI+Engineer;Building+High-Frequency+Trading+Systems;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
+  <!-- Big coder / neon hacker-style animation -->
+  <img src="https://media.giphy.com/media/3o7TKsQj0Wz7BtRwwY/giphy.gif" width="600" />
 </p>
 
 ---
@@ -15,10 +16,10 @@
 
 ---
 
-### 🛠 Tech I'm Working With
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,bash,vscode,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
 </p>
 
 ---
@@ -46,7 +47,7 @@
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
 > Built for **C++ performance in high-frequency environments**.
 
-Tech: **C++ (Core)** · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming Soon)  
+Tech: **C++ (Core)** · Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming Soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
@@ -97,4 +98,5 @@ Tech: **C++ (Core)** · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI
 
 ---
 
-<p align="center"><i style="color:#7CFC00">“C++ precision isn’t a feature. It’s a requirement. Every nanosecond counts.”</i></p>
+<p align="center"><i style="color:#7CFC00">“C++ precision isn’t a feature. It’s a product. Every nanosecond counts.”</i></p>
+
