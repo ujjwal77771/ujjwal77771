@@ -54,7 +54,7 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true&layout=compact&hide=contribs&langs_count=2&top_langs_weight=50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true&date_format=M%20j&stroke=00FF00&currStreakLabel=Current%20C%2B%2B%20Streak" />
   <br />
@@ -98,5 +98,6 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ---
 
 <p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+
 
 
