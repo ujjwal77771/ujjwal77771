@@ -39,8 +39,8 @@
 
 ### 🧪 Featured Project: AI-Driven Trading Chart
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets
-/realistic_trading_chart.gif" width="700" alt="animated trading chart"/>
+<img src="https://raw.githubusercontent.com/ujjwal77771/quant-trading-project/main/assets/realistic_trading_chart.gif" width="700" alt="animated trading chart"/>
+
 </p>
 
 
