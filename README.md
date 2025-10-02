@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="260"/>
+  <!-- Larger purple/green hacker-style coder animation -->
+  <img src="https://media.giphy.com/media/jrUcuCJ0aV7k0/giphy.gif" width="600" />
 </p>
 
 ---
@@ -18,7 +19,7 @@
 ### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
 </p>
 
 ---
@@ -46,7 +47,7 @@
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
 > Built for precision and performance in high-frequency environments.
 
-Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
+Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
@@ -58,7 +59,7 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true&langs_count=2&top_langs_weight=50" />
 </p>
 
 ---
@@ -84,6 +85,7 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
 ### 📬 Let’s Connect
 
 <p align="center">
+  <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ujjwaldeep77771@gmail.com">
@@ -96,6 +98,7 @@ Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming
 
 ---
 
-<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>  make it more creative and i am using cpp most 
+<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+
 
 
