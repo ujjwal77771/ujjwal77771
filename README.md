@@ -106,6 +106,16 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ---
 
 <p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
+</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coder animation"/>
+</p>
+
+... (rest is the same as above, use the same badges)
+
 
 
 
