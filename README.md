@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <!-- Big coder / neon hacker-style animation -->
-  <img src="https://media.giphy.com/media/3o7TKsQj0Wz7BtRwwY/giphy.gif" width="600" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="260"/>
 </p>
 
 ---
@@ -12,11 +11,11 @@
 ### 🧭 Vision
 
 > I build, I optimize, I scale — at the speed of thought.  
-> Pursuing excellence in **C++**, quant trading, HFT, and deep learning.
+> Pursuing excellence in quant trading, HFT, and deep learning.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech I'm Working With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
@@ -40,14 +39,14 @@
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-XP5oYHccWJNjfnvBAUJ8Cd6N?se=2025-06-27T18%3A08%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&sig=XXXX" width="700" />
+  <img src="https://files.oaiusercontent.com/file-XP5oYHccWJNjfnvBAUJ8Cd6N?se=2025-06-27T18%3A08%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&sig=XXXX" width="600" />
 </p>
 
 > **Live Trading Analysis with AI**  
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
-> Built for **C++ performance in high-frequency environments**.
+> Built for precision and performance in high-frequency environments.
 
-Tech: **C++ (Core)** · Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming Soon)  
+Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
@@ -55,11 +54,11 @@ Tech: **C++ (Core)** · Python · NumPy · Pandas · Scikit-Learn · Matplotlib 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true&layout=compact&hide=contribs&langs_count=2&top_langs_weight=50" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true&date_format=M%20j&stroke=00FF00&currStreakLabel=Current%20C%2B%2B%20Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true&langs_count=2&top_langs_weight=50" />
 </p>
 
 ---
@@ -82,7 +81,7 @@ Tech: **C++ (Core)** · Python · NumPy · Pandas · Scikit-Learn · Matplotlib 
 
 ---
 
-### 📬 Connect With Me
+### 📬 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ujjwal-deep-b8914024b">
@@ -98,5 +97,6 @@ Tech: **C++ (Core)** · Python · NumPy · Pandas · Scikit-Learn · Matplotlib 
 
 ---
 
-<p align="center"><i style="color:#7CFC00">“C++ precision isn’t a feature. It’s a product. Every nanosecond counts.”</i></p>
+<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+
 
