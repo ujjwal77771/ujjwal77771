@@ -18,7 +18,7 @@
 ### 🛠️ Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,redis,linux,git,github,bash,vscode&theme=dark" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 > A real-time charting tool using AI models to predict, visualize, and analyze market behavior.  
 > Built for precision and performance in high-frequency environments.
 
-Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
+Tech: Python · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)  
 📈 [Live Demo](#) · 🧠 [Code](#) · 🧪 [Model Details](#)
 
 ---
@@ -56,9 +56,9 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true&date_format=M%20j&stroke=00FF00&currStreakLabel=Current%20C%2B%2B%20Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true&langs_count=2&top_langs_weight=50" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 ---
@@ -98,6 +98,5 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ---
 
 <p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
-
 
 
