@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <!-- Large coder animation -->
+  <!-- Large coder animation (Tenor, generally reliable) -->
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coder animation"/>
 </p>
 
@@ -40,7 +40,7 @@
 ### 🧪 Featured Project: AI-Driven Trading Chart
 
 <p align="center">
-  <!-- Upload animated_trading_chart.gif to your repo assets/ folder and replace <USERNAME> and <REPO> -->
+  <!-- AFTER UPLOAD: replace USERNAME and REPO with your GitHub username and repo name -->
   <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/animated_trading_chart.gif" width="700" alt="animated trading chart"/>
 </p>
 
@@ -86,13 +86,13 @@ Tech: Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI 
 ### 📬 Let’s Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/ujjwal-deep-b8914024b">
+  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ujjwaldeep@gmail.com">
+  <a href="mailto:mail2ujjwaldeephzb@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/ujjwal77771">
+  <a href="https://github.com/ujjwal77771" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
