@@ -23,23 +23,34 @@
 
 ## 🧠 Research Interests
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   Deep Learning          Quantitative Finance       Competitive CS      │
-│   ├── Transformers        ├── Algorithmic Trading    ├── Graph Theory    │
-│   ├── Temporal models     ├── HFT system design      ├── DP / Flows      │
-│   ├── Reinforcement       ├── Risk modeling          └── Segment trees   │
-│   │   learning for        └── Time-series alpha                          │
-│   │   sequential          generation                Statistical Modelling│
-│   │   decision                                      ├── Stochastic proc. │
-│   └── Neural ODEs         Systems                   ├── Bayesian inf.    │
-│                           ├── Low-latency C++        └── Time Theory     │
-│                           ├── Redis · MongoDB              Models        │
-│                           └── Lock-free queues                           │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=400&color=39D353&center=true&vCenter=true&width=700&lines=🧬+Neural+ODEs+%7C+Latent+SDEs+%7C+Temporal+Attention;📉+HFT+System+Design+%7C+Order+Book+Modelling;🎲+Stochastic+Processes+%7C+Bayesian+Inference;🤖+Reinforcement+Learning+for+Sequential+Decisions;⚡+Low-latency+C%2B%2B+%7C+Lock-free+Queues;🔭+Time+Theory+Models+%7C+Regime+Switching" alt="Research Interests" />
+
+<br/>
+
+<!-- Deep Learning -->
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logoColor=39d353&labelColor=0e4429&color=39d353)
+![Neural ODEs](https://img.shields.io/badge/Neural%20ODEs-0d1117?style=flat-square&labelColor=0e4429&color=39d353)
+![Temporal Attention](https://img.shields.io/badge/Temporal%20Attention-0d1117?style=flat-square&labelColor=0e4429&color=39d353)
+![RL for Markets](https://img.shields.io/badge/RL%20for%20Markets-0d1117?style=flat-square&labelColor=0e4429&color=39d353)
+![Latent SDEs](https://img.shields.io/badge/Latent%20SDEs-0d1117?style=flat-square&labelColor=0e4429&color=39d353)
+
+<!-- Quant -->
+![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-0d1117?style=flat-square&labelColor=1f6feb&color=58a6ff)
+![HFT System Design](https://img.shields.io/badge/HFT%20System%20Design-0d1117?style=flat-square&labelColor=1f6feb&color=58a6ff)
+![Order Book Modelling](https://img.shields.io/badge/Order%20Book%20Modelling-0d1117?style=flat-square&labelColor=1f6feb&color=58a6ff)
+![Time-series Alpha](https://img.shields.io/badge/Time--series%20Alpha-0d1117?style=flat-square&labelColor=1f6feb&color=58a6ff)
+![Risk Modelling](https://img.shields.io/badge/Risk%20Modelling-0d1117?style=flat-square&labelColor=1f6feb&color=58a6ff)
+
+<!-- Math/Stats -->
+![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-0d1117?style=flat-square&labelColor=6e40c9&color=bc8cff)
+![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-0d1117?style=flat-square&labelColor=6e40c9&color=bc8cff)
+![Hawkes Processes](https://img.shields.io/badge/Hawkes%20Processes-0d1117?style=flat-square&labelColor=6e40c9&color=bc8cff)
+![Information Geometry](https://img.shields.io/badge/Information%20Geometry-0d1117?style=flat-square&labelColor=6e40c9&color=bc8cff)
+![Time Theory Models](https://img.shields.io/badge/Time%20Theory%20Models-0d1117?style=flat-square&labelColor=6e40c9&color=bc8cff)
+
+</div>
 
 ---
 
