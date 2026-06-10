@@ -1,101 +1,177 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=150&color=00FEC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Deep;Quant+%7C+AI+Engineer+%7C+Trader;Speed+%2B+Math+%2B+Code+%3D+Precision" alt="Typing SVG"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <!-- Large coder animation (Tenor, generally reliable) -->
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coder animation"/>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=200&section=header&text=Ujjwal%20Deep&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=ML%20Researcher%20%7C%20Quant%20Engineer%20%7C%20Deep%20Learning&descSize=18&descAlignY=60&animation=fadeIn" />
 
----
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=700&lines=Designing+neural+architectures+from+first+principles;Quantitative+finance+meets+deep+learning;HFT+systems+%7C+Time-series+forecasting+%7C+RL+for+markets;Building+at+the+intersection+of+math+%2B+speed+%2B+code" alt="Typing SVG" />
 
-### 🧭 Vision
+<br/>
 
-> I build, I optimize, I scale — at the speed of thought.  
-> Pursuing excellence in quant trading, HFT, and deep learning.
+<!-- Profile badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-deep-b8914024b)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail2ujjwaldeephzb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ujjwal77771)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ujjwaldeep_7777)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ujjwaldeep_77)
 
----
+<img src="https://komarev.com/ghpvc/?username=ujjwal77771&style=flat-square&color=39d353&label=PROFILE+VIEWS" />
 
-### 🛠️ Tech I'm Working With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,redis,git,github,bash,vscode&theme=dark" alt="tech icons"/>
-</p>
+</div>
 
 ---
 
-### ⚔️ Competitive Programming
+## 🧠 Research Interests
 
-<p align="center">
-  <a href="https://leetcode.com/ujjwaldeep_7777" title="LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/ujjwaldeep_77" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
-
----
-
-
-
-
-### 🧪 Featured Project: AI-Driven Trading Chart
-
-<p align="center">
-  <img src="https://github.com/ujjwal77771/quant-trading-project/blob/main/assets/realistic_trading_chart.gif?raw=true" width="700" alt="Animated Trading Chart"/>
-</p>
-
-**Tech:** Python · C++ · NumPy · Pandas · Scikit-Learn · Matplotlib · FastAPI (Coming soon)
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=merko&hide_border=true" alt="streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=compact&theme=merko&hide_border=true" alt="top languages"/>
-</p>
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   Deep Learning          Quantitative Finance       Competitive CS      │
+│   ├── Transformers        ├── Algorithmic Trading    ├── Graph Theory    │
+│   ├── Temporal models     ├── HFT system design      ├── DP / Flows      │
+│   ├── Reinforcement       ├── Risk modeling          └── Segment trees   │
+│   │   learning for        └── Time-series alpha                          │
+│   │   sequential          generation                Statistical Modelling│
+│   │   decision                                      ├── Stochastic proc. │
+│   └── Neural ODEs         Systems                   ├── Bayesian inf.    │
+│                           ├── Low-latency C++        └── Time Theory     │
+│                           ├── Redis · MongoDB              Models        │
+│                           └── Lock-free queues                           │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🐍 Contribution Snake
+## 🔬 Featured Work
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</p>
+### 📈 AI-Driven Quantitative Trading System
+
+<div align="center">
+<img src="https://github.com/ujjwal77771/quant-trading-project/blob/main/assets/realistic_trading_chart.gif?raw=true" width="720" alt="AI Trading Chart" />
+</div>
+
+> **A research-grade pipeline** combining LSTM + Attention heads for intraday signal generation, with a C++ execution layer targeting sub-millisecond order routing.
+
+```python
+# Core architecture sketch
+class TemporalAttentionTrader(nn.Module):
+    """
+    Multi-scale temporal attention for alpha signal extraction.
+    Fuses micro-structure features with macro regime embeddings.
+    """
+    def __init__(self, d_model=256, nhead=8, n_layers=4):
+        super().__init__()
+        self.price_encoder   = PatchEmbedding(patch_size=16, d_model=d_model)
+        self.regime_encoder  = RegimeEmbedding(n_regimes=6, d_model=d_model)
+        self.transformer     = nn.TransformerEncoder(
+            nn.TransformerEncoderLayer(d_model, nhead, dim_feedforward=1024,
+                                       dropout=0.1, batch_first=True), n_layers
+        )
+        self.signal_head      = nn.Linear(d_model, 3)  # Long / Flat / Short
+        self.risk_calibrator  = VolatilityAwareScaler()
+```
+
+**Stack:** Python · C++ · PyTorch · NumPy · Pandas · FastAPI · Redis · MongoDB
 
 ---
 
-### 🎯 2025 Roadmap
+### 🔭 Time Theory Models *(Research in Progress)*
 
-- [x] Solidify CS + Math foundations  
-- [x] Build AI-based trading systems  
-- [ ] Release open-source quant tools  
-- [ ] Publish whitepaper on Time Theory Models  
-- [ ] Secure Tower Research internship  
+> Exploring learned temporal representations for non-stationary financial processes — extending Neural ODEs to irregular, event-driven market microstructure data.
 
----
-
-### 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mail2ujjwaldeephzb@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ujjwal77771" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**Key ideas:**
+- Continuous-time state-space modelling with Latent ODEs
+- Hawkes process priors for order-flow intensity
+- Regime-switching hidden Markov layers
 
 ---
 
-<p align="center"><i>“Precision isn’t a feature. It’s the product.”</i></p>
+## 🛠️ Technical Stack
 
+<div align="center">
 
+### Languages & Core
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### ML / Research
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### Infrastructure
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal77771&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0e4429&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Status |
+|----------|---------|--------|
+| 🟡 LeetCode | [ujjwaldeep_7777](https://leetcode.com/ujjwaldeep_7777) | Active — DS/Algo grinding |
+| 🔵 Codeforces | [ujjwaldeep_77](https://codeforces.com/profile/ujjwaldeep_77) | Active — Div. 2/3 contests |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+## 📝 Learning Log
+
+> *Things I'm actively thinking about right now*
+
+- **Neural SDE** — modelling latent market dynamics as stochastic differential equations
+- **Flash Attention v3** — understanding memory-efficient attention for long context
+- **Order book modelling** — level-2 data as a point process + convolutional encoder
+- **Information geometry** — natural gradients and Fisher-Rao metric in policy optimization
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=120&section=footer&text=Precision+isn't+a+feature.+It's+the+product.&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+
+</div>
