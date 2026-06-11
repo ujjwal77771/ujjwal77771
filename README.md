@@ -122,11 +122,7 @@ ENGINEERING INTELLIGENCE PIPELINE
 <!-- ═══════════════════ FEATURED RESEARCH ═══════════════════ -->
 ## ◈ FEATURED RESEARCH
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=800&color=c9d1d9&center=true&vCenter=true&width=750&lines=Research+that+runs+in+the+real+world%2C+not+just+on+benchmark+datasets." />
-</div>
-
-<br/>
 
 ---
 
@@ -171,18 +167,20 @@ ENGINEERING INTELLIGENCE PIPELINE
 
 ---
 
-### 📊 Quant Trading Research *(Side Project)*
+### 📊 Quant Trading System *(Side Project)*
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="65" />
 
-**What:** Algorithmic trading system exploring whether the same time-series techniques used for sensor degradation transfer to financial signal modelling.
+**What:** An end-to-end algorithmic trading pipeline — from live market data ingestion to signal generation and order execution — built to explore whether time-series techniques from my ML research transfer into financial markets.
 
-**Insight so far:** They do — and they don't. Bearing vibration degrades monotonically. Markets don't. The architecture transfers; the assumptions don't. Interesting failure modes.
+**Architecture:** Event-driven backend with FastAPI serving strategy signals, Redis for low-latency state management and pub/sub between components, and MongoDB for storing tick data and backtesting history.
 
-**Stack:** `Python` · `Pandas` · `MongoDB` · `FastAPI` · `Redis`
+**What I learned:** The engineering patterns from sensor-data systems transfer surprisingly well — stream processing, anomaly detection, rolling windows. The domain assumptions don't. A bearing's health degrades predictably. Markets don't. Debugging a model that's confidently wrong is a different problem entirely.
+
+**Stack:** `Python` · `FastAPI` · `Redis` · `MongoDB` · `Pandas`
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-F0A500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ujjwal77771/quant-trading-project)
-![Status](https://img.shields.io/badge/Status-Exploratory-bc8cff?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Side%20Project-bc8cff?style=for-the-badge)
 
 ---
 
@@ -211,11 +209,7 @@ ENGINEERING INTELLIGENCE PIPELINE
 <!-- ═══════════════════ COMPETITIVE PROGRAMMING ═══════════════════ -->
 ## ◈ COMPETITIVE PROGRAMMING
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&width=700&lines=Fast+%2B+Correct+%3D+Non-negotiable+when+your+code+runs+on+a+CNC+machine.;Graph+algorithms+%7C+Dynamic+Programming+%7C+Segment+Trees;Div.+2+%2F+3+Codeforces+grind+%7C+DS%2FAlgo+fundamentals" />
-
-</div>
 
 | Platform | Handle | Active Focus |
 |----------|--------|--------------|
@@ -240,9 +234,7 @@ ENGINEERING INTELLIGENCE PIPELINE
 <!-- ═══════════════════ ANIMATED LEARNING LOG ═══════════════════ -->
 ## ◈ CURRENT LEARNING LOG
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=c9d1d9&center=true&vCenter=true&width=700&lines=Things+I'm+actively+thinking+about+—+not+finished%2C+not+polished%2C+just+live." />
-</div>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -268,9 +260,7 @@ ENGINEERING INTELLIGENCE PIPELINE
 <!-- ═══════════════════ RESEARCH PHILOSOPHY ═══════════════════ -->
 ## ◈ RESEARCH PHILOSOPHY
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=2000&color=F0A500&center=true&vCenter=true&width=900&lines=%22Most+ML+papers+benchmark+on+clean+datasets.%22;%22Most+industrial+systems+run+on+noisy%2C+irregularly-sampled+sensor+streams.%22;%22I+work+in+that+gap.%22" />
-</div>
 
 <br/>
 
