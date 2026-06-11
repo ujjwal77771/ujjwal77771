@@ -81,3 +81,89 @@ class TemporalAttentionEngine(nn.Module):
         )
         self.health_head      = nn.Linear(d_model, 3)  # Healthy / Warning / Fault
         self.rul_calibrator   = HealthAwareScaler()
+
+### 🔭 Intelligent Engineering Systems (Research in Progress)
+
+Exploring physics-informed learning and Neural ODEs for modelling industrial systems, degradation processes, and predictive maintenance applications.
+
+**Key ideas:**
+* Physics-informed neural networks
+* Neural ODEs for system dynamics
+* Remaining Useful Life prediction
+* Fault diagnosis and anomaly detection
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+**Languages & Core**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**ML / Research**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Infrastructure**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+<br/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" /><br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal77771&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0e4429&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Status |
+| :--- | :--- | :--- |
+| 🟡 **LeetCode** | [ujjwaldeep_7777](https://leetcode.com/ujjwaldeep_7777) | Active — DS/Algo grinding |
+| 🔵 **Codeforces** | [ujjwaldeep_77](https://codeforces.com/profile/ujjwaldeep_77) | Active — Div. 2/3 contests |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+## 📝 Learning Log
+
+**Things I'm actively thinking about right now:**
+* **Physics-Informed Neural Networks** — modelling engineering systems with domain constraints.
+* **Flash Attention v3** — understanding memory-efficient attention for long context.
+* **Condition monitoring** — sensor data analysis for fault detection.
+* **Information geometry** — natural gradients and Fisher-Rao metric in optimization.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=120&section=footer&text=Engineering+intelligence+from+data%2C+physics+and+computation.&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+</div>
