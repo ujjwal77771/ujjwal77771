@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=200&section=header&text=Ujjwal%20Deep&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=ML%20Researcher%20%7C%20Mechanical%20Engineer%20%7C%20Deep%20Learning&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=700&lines=Designing+neural+architectures+from+first+principles;Physics-informed+machine+learning+meets+deep+learning;Engineering+systems+%7C+Predictive+maintenance+%7C+Time-series+forecasting;Building+at+the+intersection+of+engineering+%2B+math+%2B+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=1000&lines=Designing+neural+architectures+from+first+principles;Physics-informed+machine+learning+for+engineering+systems;Predictive+maintenance+%7C+Time-series+forecasting+%7C+Fault+diagnosis;Building+at+the+intersection+of+engineering+%2B+math+%2B+code" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=400&color=39D353&center=true&vCenter=true&width=700&lines=⚙️+Predictive+Maintenance+%7C+Condition+Monitoring+%7C+RUL+Prediction;🏭+Digital+Twins+%7C+Industrial+AI+Systems;🎲+Stochastic+Processes+%7C+Bayesian+Inference;🤖+Reinforcement+Learning+for+Sequential+Decisions;⚡+Low-latency+C%2B%2B+%7C+Scientific+Computing;🔭+Physics-Informed+Models+%7C+Regime+Switching" alt="Research Interests" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1900&pause=500&color=39D353&center=true&vCenter=true&width=1000&lines=⚙️+Predictive+Maintenance+%7C+Condition+Monitoring+%7C+RUL+Prediction;🏭+Digital+Twins+%7C+Industrial+AI+Systems;📊+Time-Series+Analysis+%7C+Deep+Learning;🤖+Physics-Informed+Machine+Learning;⚡+High-Performance+C%2B%2B+%7C+Scientific+Computing;🔭+Engineering+Intelligence+%7C+System+Modelling" alt="Research Interests" />
 
 <br/>
 
