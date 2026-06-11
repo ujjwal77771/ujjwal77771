@@ -122,94 +122,67 @@ ENGINEERING INTELLIGENCE PIPELINE
 <!-- ═══════════════════ FEATURED RESEARCH ═══════════════════ -->
 ## ◈ FEATURED RESEARCH
 
-### ⚙️ Physics-Informed Digital Twin System
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=800&color=c9d1d9&center=true&vCenter=true&width=750&lines=Research+that+runs+in+the+real+world%2C+not+just+on+benchmark+datasets." />
+</div>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="70" />
-
-> A research-grade pipeline for bearing fault diagnosis, condition monitoring, and Remaining Useful Life (RUL) prediction — fusing sensor signals with physics-derived system state representations.
-
-```python
-class TemporalAttentionEngine(nn.Module):
-    """
-    Multi-scale temporal attention for engineering time-series.
-
-    Key insight: industrial sensor signals exhibit multi-resolution structure —
-    high-freq transients (bearing defects) coexist with slow degradation trends.
-    PatchEmbedding + RegimeEmbedding captures both simultaneously.
-
-    Architecture:
-        sensor_encoder  → tokenise raw signal into learnable patches
-        state_encoder   → embed operating regime (speed, load, temperature)
-        transformer     → attend across time with causal masking
-        health_head     → classify: Healthy / Warning / Fault
-        rul_calibrator  → health-aware RUL scaling (not vanilla regression)
-    """
-
-    def __init__(self, d_model: int = 256, nhead: int = 8, n_layers: int = 4):
-        super().__init__()
-        self.sensor_encoder = PatchEmbedding(patch_size=16, d_model=d_model)
-        self.state_encoder  = RegimeEmbedding(n_regimes=6, d_model=d_model)
-        self.transformer    = nn.TransformerEncoder(
-            nn.TransformerEncoderLayer(
-                d_model, nhead,
-                dim_feedforward=1024, dropout=0.1, batch_first=True,
-            ),
-            num_layers=n_layers,
-        )
-        self.health_head    = nn.Linear(d_model, 3)   # [Healthy, Warning, Fault]
-        self.rul_calibrator = HealthAwareScaler()      # monotone-constrained
-
-    def forward(self, x_sensor, x_regime):
-        tokens = self.sensor_encoder(x_sensor) + self.state_encoder(x_regime)
-        h      = self.transformer(tokens)
-        health = self.health_head(h[:, -1])
-        rul    = self.rul_calibrator(h)
-        return health, rul
-```
-
-**Design decisions worth noting:**
-- `PatchEmbedding` over raw tokenisation — inspired by ViT; treats sensor windows as "visual patches"
-- `RegimeEmbedding` prevents the model from confusing operating-condition shifts with actual degradation
-- `HealthAwareScaler` enforces monotone RUL decay — a physics constraint, not a learned behaviour
+<br/>
 
 ---
 
-### 🔭 Neural ODEs for Degradation Modelling *(Research in Progress)*
+### ⚙️ Physics-Informed Digital Twin System
 
-```python
-class DegradationODE(nn.Module):
-    """
-    Continuous-time model of system health evolution.
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="65" />
 
-    Instead of discrete recurrence (LSTM/GRU), we learn the *derivative*
-    of health state and integrate forward. Benefits:
-      1. Principled uncertainty via adjoint sensitivity
-      2. Irregular time-step handling (real sensors miss readings)
-      3. Physics interpretability — ODE RHS constrained to known wear laws
-         (Paris' Law, Archard's equation, Miner's Rule, ...)
+**The problem:** Industrial bearings fail without warning. Unplanned downtime costs manufacturers millions. Existing models either ignore physics or ignore data — neither works reliably in production.
 
-    dH/dt = f_θ(H, t, operating_conditions)
-    """
+**What I built:** A full pipeline that fuses multi-channel sensor data (vibration, acoustic, thermal, current) with physics-derived constraints to classify bearing health and predict Remaining Useful Life — continuously, in real-time.
 
-    def __init__(self, state_dim: int = 64):
-        super().__init__()
-        self.dynamics = nn.Sequential(
-            nn.Linear(state_dim + 1, 128),   # +1 for time
-            nn.Tanh(),                        # smooth gradients for ODE solver
-            nn.Linear(128, 128),
-            nn.Tanh(),
-            nn.Linear(128, state_dim),
-        )
+**How it's different:**
+- Treats sensor windows as learnable patches (ViT-style) instead of raw sequences — captures both high-frequency fault transients and slow degradation trends simultaneously
+- Embeds operating regime (speed, load, temperature) so the model never confuses a load shift with actual wear
+- RUL output is constrained to be monotonically decreasing — because physics says so, not because the model learned it
 
-    def forward(self, t, h):
-        t_vec = t.expand(h.shape[0], 1)
-        return self.dynamics(torch.cat([h, t_vec], dim=-1))
-```
+**Stack:** `PyTorch` · `Temporal Attention` · `PatchEmbedding` · `FastAPI` · `Redis`
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-F0A500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ujjwal77771)
+![Status](https://img.shields.io/badge/Status-Active%20Research-39d353?style=for-the-badge)
+
+---
+
+### 🔭 Neural ODEs for Continuous Degradation Modelling
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="65" />
+
+**The problem:** LSTMs and GRUs model degradation in discrete time steps. Real sensors are noisy, irregular, and miss readings. Discrete recurrence breaks down exactly when you need it most.
+
+**The idea:** Learn the *derivative* of health state, not the state itself. Integrate forward with a neural ODE. Now the model handles irregular timestamps naturally, gives principled uncertainty, and the right-hand side can be constrained to match known wear laws — Paris' Law, Archard's equation, Miner's Rule.
+
+**Why it matters:** A maintenance engineer doesn't want a black-box "replace in 47 hours." They want *calibrated confidence intervals* so they can plan around a production schedule.
+
+**Stack:** `torchdiffeq` · `Neural ODEs` · `Adjoint Sensitivity` · `Bayesian Inference`
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-F0A500?style=for-the-badge)
 
 **Open questions I'm actively pursuing:**
 - Can we learn the stiffness of degradation dynamics from data alone?
 - How does Information Geometry constrain the parameter manifold of a Neural ODE?
-- Can Bayesian Neural ODEs give calibrated RUL uncertainty bounds for maintenance scheduling?
+- Can Bayesian Neural ODEs give calibrated RUL confidence intervals tight enough for real maintenance scheduling?
+
+---
+
+### 📊 Quant Trading Research *(Side Project)*
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="65" />
+
+**What:** Algorithmic trading system exploring whether the same time-series techniques used for sensor degradation transfer to financial signal modelling.
+
+**Insight so far:** They do — and they don't. Bearing vibration degrades monotonically. Markets don't. The architecture transfers; the assumptions don't. Interesting failure modes.
+
+**Stack:** `Python` · `Pandas` · `MongoDB` · `FastAPI` · `Redis`
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-F0A500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ujjwal77771/quant-trading-project)
+![Status](https://img.shields.io/badge/Status-Exploratory-bc8cff?style=for-the-badge)
 
 ---
 
