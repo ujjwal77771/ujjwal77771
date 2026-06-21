@@ -146,7 +146,7 @@ ENGINEERING INTELLIGENCE PIPELINE
 
 ---
 
-### 🔭 Neural ODEs for Continuous Degradation Modelling
+### 🔭 Extension Resarch - Neural ODEs for Continuous Degradation Modelling
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="65" />
 
