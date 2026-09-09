@@ -1,280 +1,316 @@
-<!-- ============================================================
-     UJJWAL DEEP — GitHub Profile README  (Animated Edition)
-     ML Researcher · Mechanical Engineer · Deep Learning
-     ============================================================ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║       UJJWAL DEEP — ULTIMATE ANIMATED PROFILE README            ║
+     ║  ML Researcher · Mechanical Engineer · Competitive Programmer   ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+<!-- ══════════════ VENOM BANNER ══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a00,70:3d2000,100:F0A500&height=280&section=header&text=UJJWAL%20DEEP&fontSize=72&fontColor=F0A500&fontAlignY=40&desc=ML%20Researcher%20·%20Mechanical%20Engineer%20·%20Deep%20Learning&descSize=17&descAlignY=62&descColor=c9d1d9&animation=fadeIn&stroke=F0A500&strokeWidth=1" />
-
-<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=900&color=F0A500&center=true&vCenter=true&width=960&lines=⚙️+Physics-informed+ML+for+industrial+systems;🧠+Neural+ODEs+%7C+Temporal+Attention+%7C+RUL+Prediction;📡+Building+where+differential+equations+meet+deep+learning;🔬+Predictive+Maintenance+%7C+Fault+Diagnosis+%7C+Digital+Twins;⚡+Engineering+intelligence+from+data%2C+physics+%26+computation" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
-<a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mail2ujjwaldeephzb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ujjwal77771"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/ujjwaldeep_7777"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/ujjwaldeep_77"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ujjwal77771&style=for-the-badge&color=F0A500&label=PROFILE+VIEWS" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:1a0800,100:F0A500&height=300&section=header&text=UJJWAL%20DEEP&fontSize=80&fontColor=F0A500&fontAlignY=38&desc=⚙️%20Physics-Informed%20ML%20·%20Mechanical%20Engineer%20·%20Competitive%20Programmer&descSize=18&descAlignY=60&descColor=ffffff&animation=fadeIn&stroke=F0A500&strokeWidth=2" />
 
 </div>
 
----
-
-<!-- ═══════════════════ ANIMATED ABOUT ═══════════════════ -->
-## ◈ ABOUT
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="80" />
-
-```yaml
-name        : Ujjwal Deep
-domain      : ML Research × Mechanical Engineering
-focus       : Physics-Informed Learning | Predictive Maintenance | Time-Series
-approach    : Build neural systems that respect the laws of physics
-philosophy  : "A model that violates conservation of energy isn't a model — it's a guess."
-currently   :
-  - Designing temporal attention architectures for bearing fault diagnosis
-  - Studying Neural ODEs for continuous-time degradation modelling
-  - Learning Flash Attention v3 internals for long-sequence sensor analysis
-  - Exploring Information Geometry (Fisher-Rao metric, natural gradients)
-```
-
----
-
-<!-- ═══════════════════ ANIMATED SKILLS ═══════════════════ -->
-## ◈ TECHNICAL STACK
-
+<!-- ══════════════ ANIMATED TYPING ══════════════ -->
 <div align="center">
 
-<!-- Animated skill icons row 1: Languages & ML -->
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,numpy&theme=dark&perline=5" /><br/><br/>
-
-<!-- Animated skill icons row 2: Infra & Tools -->
-<img src="https://skillicons.dev/icons?i=fastapi,redis,mongodb,docker,linux&theme=dark&perline=5" /><br/><br/>
-
-<!-- Animated skill icons row 3: Dev tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,latex&theme=dark&perline=5" />
-
-<br/><br/>
-
-<!-- Domain badges with animated shimmer feel via flat-square -->
-**Research Domains**<br/>
-![Physics-Informed ML](https://img.shields.io/badge/Physics--Informed%20ML-F0A500?style=flat-square&logoColor=black)
-![Neural ODEs](https://img.shields.io/badge/Neural%20ODEs-F0A500?style=flat-square&logoColor=black)
-![Temporal Attention](https://img.shields.io/badge/Temporal%20Attention-F0A500?style=flat-square&logoColor=black)
-![RUL Prediction](https://img.shields.io/badge/RUL%20Prediction-F0A500?style=flat-square&logoColor=black)
-![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-58a6ff?style=flat-square)
-![Fault Diagnosis](https://img.shields.io/badge/Fault%20Diagnosis-58a6ff?style=flat-square)
-![Digital Twins](https://img.shields.io/badge/Digital%20Twins-58a6ff?style=flat-square)
-![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-bc8cff?style=flat-square)
-![Information Geometry](https://img.shields.io/badge/Information%20Geometry-bc8cff?style=flat-square)
-![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-bc8cff?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=F0A500&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=🔬+Physics-Informed+Neural+Networks+for+Industrial+AI;⚙️+Neural+ODEs+%7C+Temporal+Attention+%7C+RUL+Prediction;📡+Where+Differential+Equations+Meet+Deep+Learning;🏆+Competitive+Programmer+%7C+LeetCode+%7C+Codeforces;🚀+Building+Real-World+Engineering+Intelligence" alt="Typing SVG" />
 
 </div>
-
----
-
-<!-- ═══════════════════ WHAT I WORK ON ═══════════════════ -->
-## ◈ WHAT I WORK ON
-
-<div align="center">
-
-```
-ENGINEERING INTELLIGENCE PIPELINE
-══════════════════════════════════════════════════════════════════
-
-  RAW SENSOR DATA                                   DECISION
-  ┌──────────┐     ┌────────────┐   ┌──────────┐   ┌────────┐
-  │ Vibration│────▶│  Feature   │──▶│ Temporal │──▶│ Health │
-  │ Acoustic │     │ Extraction │   │ Attention│   │ Index  │
-  │ Thermal  │     │  + Patches │   │  Engine  │   └───┬────┘
-  │ Current  │     └────────────┘   └──────────┘       │
-  └──────────┘                            ▲             ▼
-        │                                 │         ┌──────────┐
-        │         ┌──────────────┐        │         │   RUL    │
-        └────────▶│   Physics    │────────┘         │Prediction│
-                  │  Constraints │                   └──────────┘
-                  │  (PDE/ODE)  │
-                  └──────────────┘
-
-  Status: Healthy ──────────────────────────── Fault
-             ●━━━━━━━━━━━━━━━━━○━━━━━━━━━━━━━━━━○
-           [RUL: High]    [Warning Zone]    [Replace]
-```
-
-</div>
-
-| Layer | What I do |
-|-------|-----------|
-| **Physics** | Encode governing equations (PDEs, ODEs, degradation laws) as hard constraints — not soft regularizers |
-| **Mathematics** | Stochastic processes, Bayesian inference, Information Geometry to understand *why* models learn |
-| **Engineering** | Apply it to real problems: bearing fault diagnosis, condition monitoring, predictive maintenance |
-
----
-
-<!-- ═══════════════════ FEATURED RESEARCH ═══════════════════ -->
-## ◈ FEATURED RESEARCH
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=800&color=c9d1d9&center=true&vCenter=true&width=750&lines=Research+that+runs+in+the+real+world%2C+not+just+on+benchmark+datasets." />
-
----
-
-### ⚙️ Physics-Informed Digital Twin System
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="65" />
-
-**The problem:** Industrial bearings fail without warning. Unplanned downtime costs manufacturers millions. Existing models either ignore physics or ignore data — neither works reliably in production.
-
-**What I built:** A full pipeline that fuses multi-channel sensor data (vibration, acoustic, thermal, current) with physics-derived constraints to classify bearing health and predict Remaining Useful Life — continuously, in real-time.
-
-**How it's different:**
-- Treats sensor windows as learnable patches (ViT-style) instead of raw sequences — captures both high-frequency fault transients and slow degradation trends simultaneously
-- Embeds operating regime (speed, load, temperature) so the model never confuses a load shift with actual wear
-- RUL output is constrained to be monotonically decreasing — because physics says so, not because the model learned it
-
-**Stack:** `PyTorch` · `Temporal Attention` · `PatchEmbedding` · `FastAPI` · `Redis`
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-F0A500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ujjwal77771)
-![Status](https://img.shields.io/badge/Status-Active%20Research-39d353?style=for-the-badge)
-
----
-
-### 🔭 Extension Resarch - Neural ODEs for Continuous Degradation Modelling
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="65" />
-
-**The problem:** LSTMs and GRUs model degradation in discrete time steps. Real sensors are noisy, irregular, and miss readings. Discrete recurrence breaks down exactly when you need it most.
-
-**The idea:** Learn the *derivative* of health state, not the state itself. Integrate forward with a neural ODE. Now the model handles irregular timestamps naturally, gives principled uncertainty, and the right-hand side can be constrained to match known wear laws — Paris' Law, Archard's equation, Miner's Rule.
-
-**Why it matters:** A maintenance engineer doesn't want a black-box "replace in 47 hours." They want *calibrated confidence intervals* so they can plan around a production schedule.
-
-**Stack:** `torchdiffeq` · `Neural ODEs` · `Adjoint Sensitivity` · `Bayesian Inference`
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-F0A500?style=for-the-badge)
-
-**Open questions I'm actively pursuing:**
-- Can we learn the stiffness of degradation dynamics from data alone?
-- How does Information Geometry constrain the parameter manifold of a Neural ODE?
-- Can Bayesian Neural ODEs give calibrated RUL confidence intervals tight enough for real maintenance scheduling?
-
----
-
-### 📊 Quant Trading System *(Side Project)*
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="65" />
-
-**What:** An end-to-end algorithmic trading pipeline — from live market data ingestion to signal generation and order execution — built to explore whether time-series techniques from my ML research transfer into financial markets.
-
-**Architecture:** Event-driven backend with FastAPI serving strategy signals, Redis for low-latency state management and pub/sub between components, and MongoDB for storing tick data and backtesting history.
-
-**What I learned:** The engineering patterns from sensor-data systems transfer surprisingly well — stream processing, anomaly detection, rolling windows. The domain assumptions don't. A bearing's health degrades predictably. Markets don't. Debugging a model that's confidently wrong is a different problem entirely.
-
-**Stack:** `Python` · `FastAPI` · `Redis` · `MongoDB` · `Pandas`
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-F0A500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ujjwal77771/quant-trading-project)
-![Status](https://img.shields.io/badge/Status-Side%20Project-bc8cff?style=for-the-badge)
-
----
-
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
-## ◈ GITHUB ANALYTICS
-
-<div align="center">
-
-<!-- Animated stats cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=F0A500&icon_color=F0A500&text_color=c9d1d9&ring_color=F0A500" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal77771&theme=github-dark-blue&hide_border=true&background=0d1117&ring=F0A500&fire=F0A500&currStreakLabel=F0A500" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F0A500&text_color=c9d1d9&langs_count=8" />
+<!-- ══════════════ ANIMATED MOVING LOGOS ROW ══════════════ -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="Python">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="C++">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="MongoDB">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" title="Redis">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" title="Docker">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" title="React">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" title="TypeScript">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60" title="Git">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" title="GitHub">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" title="Linux">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" title="PyTorch">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" title="TensorFlow">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60" title="FastAPI">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="60" title="VS Code">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60" title="LaTeX">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60" title="Notion">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="60" title="Bash">
+
+</div>
+
+<br/>
+
+<!-- ══════════════ ANIMATED SOCIAL ICONS ══════════════ -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ujjwal-deep-b8914024b">
+  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60" title="LinkedIn"/>
+</a>
+<a href="mailto:mail2ujjwaldeephzb@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60" title="Gmail"/>
+</a>
+<a href="https://github.com/ujjwal77771">
+  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="60" title="GitHub"/>
+</a>
+<a href="https://leetcode.com/ujjwaldeep_7777">
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60" title="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/ujjwaldeep_77">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" title="Codeforces"/>
+</a>
 
 <br/><br/>
 
-<!-- Animated contribution graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal77771&bg_color=0d1117&color=F0A500&line=F0A500&point=ffffff&area=true&area_color=2a1a00&hide_border=true&custom_title=Contribution+Activity" />
+![Profile Views](https://komarev.com/ghpvc/?username=ujjwal77771&style=for-the-badge&color=F0A500&label=PROFILE+VIEWS&abbreviated=true)
+![GitHub followers](https://img.shields.io/github/followers/ujjwal77771?style=for-the-badge&color=F0A500&labelColor=0d1117&logo=github&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/ujjwal77771?style=for-the-badge&color=F0A500&labelColor=0d1117&logo=github&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ COMPETITIVE PROGRAMMING ═══════════════════ -->
-## ◈ COMPETITIVE PROGRAMMING
+<!-- ══════════════ ABOUT + CODING GIF SIDE BY SIDE ══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&width=700&lines=Fast+%2B+Correct+%3D+Non-negotiable+when+your+code+runs+on+a+CNC+machine.;Graph+algorithms+%7C+Dynamic+Programming+%7C+Segment+Trees;Div.+2+%2F+3+Codeforces+grind+%7C+DS%2FAlgo+fundamentals" />
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
-| Platform | Handle | Active Focus |
-|----------|--------|--------------|
-| 🟡 **LeetCode** | [ujjwaldeep_7777](https://leetcode.com/ujjwaldeep_7777) | DS/Algo — graph, DP, segment trees |
-| 🔵 **Codeforces** | [ujjwaldeep_77](https://codeforces.com/profile/ujjwaldeep_77) | Div. 2/3 contests |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> &nbsp; About Me
+
+```yaml
+╔══════════════════════════════════════════╗
+  name       :  Ujjwal Deep
+  role       :  Mech Engg Student + ML Research
+  country    :  India 🇮🇳
+  email      :  mail2ujjwaldeephzb@gmail.com
+  focus      :  Physics-Informed Learning
+               Predictive Maintenance
+               Time-Series Intelligence
+  approach   :  Neural systems that obey physics
+  philosophy :  "A model that violates conservation
+                 of energy isn't a model — it's a guess."
+╠══════════════════════════════════════════╣
+  currently  :
+    🔧  Temporal Attention for fault diagnosis
+    📐  Neural ODEs for degradation modelling
+    ⚡  Flash Attention v3 internals
+    📊  Information Geometry (Fisher-Rao metric)
+    🏆  CP grind — LeetCode & Codeforces
+╚══════════════════════════════════════════╝
+```
+
+<br clear="right"/>
 
 ---
 
-<!-- ═══════════════════ ANIMATED CONTRIBUTION SNAKE ═══════════════════ -->
-## ◈ CONTRIBUTION SNAKE
+<!-- ══════════════ TROPHIES ══════════════ -->
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ujjwal77771&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+
 </div>
 
 ---
 
-<!-- ═══════════════════ ANIMATED LEARNING LOG ═══════════════════ -->
-## ◈ CURRENT LEARNING LOG
+<!-- ══════════════ TECH STACK ══════════════ -->
+## ⚙️ &nbsp; Tech Stack & Tools
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=c9d1d9&center=true&vCenter=true&width=700&lines=Things+I'm+actively+thinking+about+—+not+finished%2C+not+polished%2C+just+live." />
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>🐍 Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🤖 ML / DL</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛠️ DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,redis,mongodb&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>✏️ IDE & Docs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,latex,notion&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ══════════════ RESEARCH DOMAINS ══════════════ -->
+## 🔬 &nbsp; Research Domains
+
+<div align="center">
+
+| 🟡 Physics-Informed ML | 🔵 Engineering AI | 🟣 Mathematics |
+|:---:|:---:|:---:|
+| ![Physics-Informed ML](https://img.shields.io/badge/Physics--Informed%20ML-F0A500?style=flat-square) | ![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-58a6ff?style=flat-square) | ![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-bc8cff?style=flat-square) |
+| ![Neural ODEs](https://img.shields.io/badge/Neural%20ODEs-F0A500?style=flat-square) | ![Fault Diagnosis](https://img.shields.io/badge/Fault%20Diagnosis-58a6ff?style=flat-square) | ![Information Geometry](https://img.shields.io/badge/Information%20Geometry-bc8cff?style=flat-square) |
+| ![Temporal Attention](https://img.shields.io/badge/Temporal%20Attention-F0A500?style=flat-square) | ![Digital Twins](https://img.shields.io/badge/Digital%20Twins-58a6ff?style=flat-square) | ![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-bc8cff?style=flat-square) |
+| ![RUL Prediction](https://img.shields.io/badge/RUL%20Prediction-F0A500?style=flat-square) | ![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-58a6ff?style=flat-square) | ![Koopman Theory](https://img.shields.io/badge/Koopman%20Theory-bc8cff?style=flat-square) |
+
+</div>
+
+---
+
+<!-- ══════════════ ENGINEERING PIPELINE ══════════════ -->
+## ⚡ &nbsp; What I Build
+
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  THREAD               STATUS        NOTE                             │
-│─────────────────────────────────────────────────────────────────────│
-│  Physics-Informed     ████████░░    Loss function design:            │
-│  Neural Networks                   hard PDE constraints vs soft      │
-│                                                                      │
-│  Flash Attention v3   ██████░░░░    Reading Tri Dao's paper on       │
-│                                    memory-efficient attention kernels│
-│                                                                      │
-│  Information          ████░░░░░░    Fisher-Rao metric, natural grads │
-│  Geometry                          → what it means for Neural ODE   │
-│                                    parameter spaces                  │
-│                                                                      │
-│  Condition            ████████░░    Sensor fusion, anomaly detection │
-│  Monitoring                        on CWRU bearing dataset           │
+┌──────────────── ENGINEERING INTELLIGENCE PIPELINE ────────────────┐
+│                                                                     │
+│   RAW SENSOR DATA   ──▶  FEATURE ENGINEERING  ──▶  PHYSICS MODEL   │
+│  (vib · temp · RPM)     (FFT · wavelet · Δt)    (PDE residuals)    │
+│                                    │                                │
+│                                    ▼                                │
+│                       ┌────────────────────────┐                   │
+│                       │    DEEP LEARNING CORE   │                   │
+│                       │  ┌──────────────────┐  │                   │
+│                       │  │ Temporal Attn.   │  │                   │
+│                       │  │ Neural ODE       │  │                   │
+│                       │  │ LSTM / Mamba     │  │                   │
+│                       │  └──────────────────┘  │                   │
+│                       └────────────────────────┘                   │
+│                                    │                                │
+│              ┌─────────────────────┼─────────────────────┐         │
+│              ▼                     ▼                     ▼         │
+│       FAULT DETECTION        RUL ESTIMATION       DIGITAL TWIN     │
+│    (bearing·gear·seal)    (hours remaining)    (real-time state)   │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-<!-- ═══════════════════ RESEARCH PHILOSOPHY ═══════════════════ -->
-## ◈ RESEARCH PHILOSOPHY
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=2000&color=F0A500&center=true&vCenter=true&width=900&lines=%22Most+ML+papers+benchmark+on+clean+datasets.%22;%22Most+industrial+systems+run+on+noisy%2C+irregularly-sampled+sensor+streams.%22;%22I+work+in+that+gap.%22" />
-
-<br/>
-
-I believe the best machine learning for engineering systems isn't just accurate — it's **physically consistent**, **uncertainty-aware**, and **interpretable enough** that a maintenance engineer can trust it when a bearing is about to fail on a production line.
+</div>
 
 ---
 
-<!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
+<!-- ══════════════ GITHUB STATS ══════════════ -->
+## 📊 &nbsp; GitHub Statistics
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2800&pause=1200&color=F0A500&center=true&vCenter=true&width=800&lines=If+a+differential+equation+governs+it%2C+a+neural+network+should+respect+it.;Engineering+intelligence+from+data%2C+physics+%26+computation." />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ujjwal77771&show_icons=true&theme=github_dark&hide_border=true&title_color=F0A500&icon_color=F0A500&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=ujjwal77771&theme=github-dark-blue&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=c9d1d9&background=0D1117&dates=808080" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A500,40:3d2000,80:1a0a00,100:0d1117&height=130&section=footer&text=&animation=fadeIn" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal77771&layout=donut&theme=github_dark&hide_border=true&title_color=F0A500&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
+## 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal77771&bg_color=0d1117&color=F0A500&line=F0A500&point=ffffff&area=true&area_color=F0A50030&hide_border=true&radius=6" />
+
+</div>
+
+---
+
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ujjwal77771/ujjwal77771/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjwal77771/ujjwal77771/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ujjwal77771/ujjwal77771/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ══════════════ COMPETITIVE PROGRAMMING ══════════════ -->
+## 🏆 &nbsp; Competitive Programming
+
+<div align="center">
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
+
+| 🎯 Platform | 👤 Handle | 🔗 Profile | 📌 Focus |
+|:---:|:---:|:---:|:---:|
+| 🟡 **LeetCode** | `ujjwaldeep_7777` | [→ Visit](https://leetcode.com/ujjwaldeep_7777) | DSA · Algorithms |
+| 🔵 **Codeforces** | `ujjwaldeep_77` | [→ Visit](https://codeforces.com/profile/ujjwaldeep_77) | CP · Math |
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════ LEARNING ROADMAP ══════════════ -->
+## 🗺️ &nbsp; 2026 Learning Roadmap
+
+<div align="center">
+
+```
+ STATUS   TOPIC                                    DOMAIN
+ ──────────────────────────────────────────────────────────────────
+  ✅ DONE  Temporal Convolutional Networks (TCN)   Deep Learning
+  ✅ DONE  Continuous Normalizing Flows            Generative ML
+  ✅ DONE  Bearing Fault Datasets (CWRU, MFPT)    Engineering AI
+  🔄 WIP   Flash Attention v3 internals            Efficient ML
+  🔄 WIP   Fisher-Rao Information Geometry         Mathematics
+  📌 NEXT  Koopman Operator Theory                 Dynamical Systems
+  📌 NEXT  Diffusion Models for Anomaly Detection  Generative AI
+  📌 NEXT  CUDA Kernel Optimization                Systems Programming
+  📌 NEXT  Mamba / SSM Architectures               Sequence Models
+ ──────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+---
+
+<!-- ══════════════ WORKING GIF + QUOTE ══════════════ -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
+
+---
+
+<!-- ══════════════ WAVE FOOTER ══════════════ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A500,50:3d2000,100:0d1117&height=130&section=footer&text=Let%27s%20Build%20Something%20Intelligent%20Together&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
